@@ -19,7 +19,7 @@ body {
 
 .logo-link {
   width: 100%;
-  line-height: 0;
+ display: flex
 }
 
 .header-container {
